@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Gaukhar008/forkify-app#readme",
   "dependencies": {
     "core-js": "^3.29.1",
+    "fractional": "^1.0.0",
     "regenerator-runtime": "^0.13.11"
   }
 }
